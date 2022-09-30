@@ -1,1 +1,1 @@
-console.log('Welcome to Git and Github')
+console.log('I dont like Git')
